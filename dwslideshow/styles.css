@@ -1,0 +1,23 @@
+@charset "UTF-8";
+footer {
+    text-align: center;
+}
+body h1 {
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+	color: darkred;
+	text-align: center;
+		
+}
+body {
+}
+body p {
+    font-family: arial;
+    text-align: center;
+}
+body {
+    background-color: #908586;
+}
+.carousel-item .carousel-caption h5 {
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+    
+}
